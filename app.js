@@ -68,8 +68,8 @@ btn.addEventListener("click", () => {
   const password = document.getElementById("pass");
   if (password.value == "") {
     swal({
-      title: "Password field is empty!",
-      text: "Type  your  password!",
+      title: "Barar Sual Password De",
+      text: "kaner upor dibo akebare",
       icon: "error",
       button: "Ok!",
     });
